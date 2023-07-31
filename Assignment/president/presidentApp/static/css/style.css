@@ -1,0 +1,34 @@
+/* table, th, tr{
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 100%;
+} */
+
+body{
+    background-color: blanchedalmond;
+    
+}
+.table{
+    border: 2px solid black;
+    width: 50%;
+    border-collapse: collapse;
+    padding: 0 10%;
+    
+}
+td,tr{
+    border-collapse: collapse;
+    border: 2px solid black;
+    max-width: 100px;
+    
+    
+}
+th{
+    width: 100px;
+    border-collapse: collapse;
+}
+#first{
+    width: 10px;
+}
+table{
+    table-layout: fixed;
+}

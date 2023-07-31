@@ -1,0 +1,29 @@
+footer{
+    text-align: center;
+    background-color: blueviolet;
+}
+.title{
+    color:  red;
+    text-align: center;
+    padding:  50px;
+}
+   
+img{
+    padding: 0 20px;
+    /* width: 40px; */
+}
+body{
+    background-image: url('./images/engine.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.part{
+    width: 50%;
+    height: 50%;
+
+ }
+ .navbar{
+    background-color: bisque;
+ }
